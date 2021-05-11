@@ -1,4 +1,6 @@
-### Hi there 👋
+### Raven's Profile
+
+This guy is lazy, has no contribution to the world yet.
 
 <!--
 **BA3000/BA3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=BA3000&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BA3000)](https://github.com/anuraghazra/github-readme-stats)
