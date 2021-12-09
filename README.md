@@ -2,7 +2,7 @@
 
 This guy is lazy, has no contribution to the world yet.
 
-- 🔭 I’m currently working on LUAGO, trying to build Lua VM with Golang (may be layter I will do this again but in Rust)
+- 🔭 I’m currently working on LUAGO, trying to build Lua VM with Golang (maybe later I will do this again but in Rust)
 - 🌱 I'm currently learning Go, Rust, and C++
 - 🤔 I'm currently learning physics simulation in game development field, trying to make a PBF illustration demo
 
