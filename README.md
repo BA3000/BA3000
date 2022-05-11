@@ -2,9 +2,9 @@
 
 This guy is lazy, has no contribution to the world yet.
 
-- 🔭 I’m currently working on LUAGO, trying to build Lua VM with Golang (maybe later I will remake it but in Rust)
-- 🌱 I'm currently learning Go, Rust, and C++
-- 🤔 I'm currently learning physics simulation in game development field, trying to make a PBF illustration demo
+- 🔭 I’m working on LUAGO, trying to build a Lua VM with Golang (maybe later I will remake it but in Rust)
+- 🌱 I'm learning Go, Rust, and C++
+- 🤔 I'm learning physics simulation in game development field, trying to make a PBF illustration demo
 - 🌹  My blog address is srin.top (my blogs are mainly written in Chinese, might translate them to English later).
 
 ![Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=BA3000&show_icons=true)
