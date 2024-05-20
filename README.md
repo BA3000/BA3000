@@ -1,6 +1,6 @@
 # BA3000
 
-I am currently living and working in Shenzhen. My profession is game development.
+I am currently living and working in Shanghai. My profession is game development.
 
 ## How to Reach Me
 
